@@ -1,24 +1,19 @@
-# README
+# Grammable Web Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[Grammable](https://grammable-chastity.herokuapp.com): A two-sided, video-streaming marketplace platform that features credit card payment capabilities, user role management, complex user interfaces, and advanced database relationships.
 
-Things you may want to cover:
+This app powers Grammable located [here](https://grammable-chastity.herokuapp.com)
 
-* Ruby version
+## Getting Started
 
-* System dependencies
+## Software requirements
 
-* Configuration
+- Rails 5.0.0 or higher
 
-* Database creation
+- Ruby 2.3.1 or higher
 
-* Database initialization
+- PostgreSQL 9.5.x or higher
 
-* How to run the test suite
+## Copyright
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+&copy; Copyright 2017 Chastity Lawson. All Rights Reserved.
